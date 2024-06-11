@@ -66,6 +66,9 @@ space_invaders/
    - Defend against descending aliens by shooting them with your spaceship.
    - Avoid colliding with aliens or letting them reach the bottom of the screen.
    - The game ends when all lives are lost or when the aliens reach the bottom of the screen.
+  
+## Output
+![Screenshot 2024-06-01 231808](https://github.com/Lavz-8/space_invaders/assets/145861363/ccb6471c-80e7-41ef-8f44-b51e1c02d63a)
 
 ## Credits
 This game was created by **Lavanya Varadharajan**.
